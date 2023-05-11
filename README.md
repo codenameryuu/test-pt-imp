@@ -2,7 +2,7 @@
 
 ## Tentang
 
-Ini merupakan hasil test backend PT IMP mengggunakan framework laravel 10 dengan service patern
+Ini merupakan hasil test backend PT IMP mengggunakan framework laravel 10 dengan service pattern
 
 ## Tools
 
